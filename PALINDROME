@@ -1,0 +1,11 @@
+package day1;
+
+public class palindrome {
+	public static void main (String[] arg) {
+		String a="123";
+		String b="456";
+		int c=Integer.parseInt(a);
+		int d=Integer.parseInt(b);
+		System.out.println(c+d);
+	}
+}
